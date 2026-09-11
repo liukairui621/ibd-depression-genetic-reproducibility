@@ -1,0 +1,2 @@
+n_total	n_flagged_removed	n_retained	n_positive	n_nominal_p_lt_0_05	n_bh_fdr_lt_0_05	rg_min	rg_max	near_pd_used	min_original_v_eigenvalue
+24	6	18	18	10	9	0.0451	0.2022	FALSE	1.15150549266729e-05

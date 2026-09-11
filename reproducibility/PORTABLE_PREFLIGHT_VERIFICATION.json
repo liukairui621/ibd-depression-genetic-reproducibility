@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-11",
+  "status": "PASS",
+  "environment": "original Linux analysis server with existing source assets and installed software",
+  "scope": "entry-point, interpreter, directory, path-substitution, and shell-syntax checks only",
+  "stages_resolved": [
+    "rebuild_inputs",
+    "core",
+    "lava",
+    "phenotype_extension",
+    "placo",
+    "finemap_qtl",
+    "annotation"
+  ],
+  "regression_checks": {
+    "configured_qtl_python_preserved": true,
+    "annotation_reports_directory_created": true,
+    "shell_syntax_valid": true
+  },
+  "full_downstream_analysis_run": false
+}

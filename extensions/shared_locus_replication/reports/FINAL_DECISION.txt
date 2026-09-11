@@ -1,0 +1,2 @@
+GO
+replicated_non_MHC_blocks=3

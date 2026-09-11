@@ -1,0 +1,21 @@
+check	status	detail
+all_gwas_susie_converged	PASS	24/24
+replicated_ibd_components	PASS	['block154', 'block464']
+no_replicated_depression_component	PASS	[]
+cedar_failures_classified_technical	PASS	9/9
+non_cedar_retrieval_complete	PASS	GTEx and BLUEPRINT have no retrieval errors
+qtl_gate_count	PASS	78
+qtl_gate_minimum_snps	PASS	minimum=963
+qtl_gate_cis_signal	PASS	maximum min-P=6.67e-06
+complete_abf_grid	PASS	624 vs 624
+all_abf_runs_ok	PASS	{'ok': 624}
+all_screened_qtl_susie_converged	PASS	275/275
+all_screened_gwas_susie_converged	PASS	275/275
+ibd_component_genes	PASS	['GPR25', 'MST1']
+no_cross_cohort_depression_qtl_gene	PASS	[]
+no_four_gwas_shared_gene	PASS	[]
+single_cohort_depression_candidates	PASS	['FADS1', 'TMEM258']
+no_single_pqtl_signal_supports_both_families	PASS	n=0
+mst1_pqtl_ibd_support	PASS	max H4=0.987180
+mst1_pqtl_depression_support_distinct	PASS	max H4=0.995344
+mst1_ibd_vs_depression_pqtl_signals_low_ld	PASS	r2 range=0.022180-0.097533

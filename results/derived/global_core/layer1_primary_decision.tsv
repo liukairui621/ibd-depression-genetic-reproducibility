@@ -1,0 +1,3 @@
+decision	trait1	trait2	rg	se	p	gcov_intercept_z
+global_gate_passed_reciprocal_estimates_reported_separately	MDD_Howard2019	IBD_FinnGen_R12	0.1205	0.0336	0.0003	-2.0
+global_gate_passed_reciprocal_estimates_reported_separately	DEP_FinnGen_R12	IBD_deLange2017	0.0829	0.0351	0.0181	0.3939393939393939

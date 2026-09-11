@@ -1,0 +1,11 @@
+2026-07-26T20:19:48+08:00
+iZ7xv8v8u3z7yg393huo0hZ
+Linux iZ7xv8v8u3z7yg393huo0hZ 6.8.0-100-generic #100-Ubuntu SMP PREEMPT_DYNAMIC Tue Jan 13 16:40:06 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
+Python 2.7.18 :: Anaconda, Inc.
+('numpy', '1.16.5')
+('pandas', u'0.24.2')
+('scipy', '1.2.1')
+Python 3.12.3
+R version 4.3.3 (2024-02-29) -- "Angel Food Cake"
+e6446d21310a491b06b8fe25c5b69ba1  /root/ldsc/ldsc.py
+844dcc49bccaa1659a48204e6d1f611a  /root/ldsc/munge_sumstats.py

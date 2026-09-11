@@ -1,0 +1,14 @@
+trait_id	domain	phenotype_definition	cohort	build	n_cases	n_controls	n_total	role	input_status	source
+MDD_Howard2019	depression	public PGC-UK Biobank depression meta-analysis excluding 23andMe	Howard_2019	GRCh37	170756	329443	500199	primary_reciprocal	available	University_of_Edinburgh_DataShare_doi_10.7488_ds_2458
+DEP_FinnGen_R12	depression	F5_DEPRESSIO EHR endpoint	FinnGen_R12	GRCh38	59333	434831	494164	reciprocal_replication	available	FinnGen_R12
+UKB_LifetimeMDD	depression	DSM-V symptom and impairment lifetime MDD	UK_Biobank_Cai2020	GRCh37	NA	NA	per_variant	phenotype_sensitivity	downloadable	Figshare_11733753_file_21356610
+UKB_MDDRecur	depression	recurrent lifetime MDD	UK_Biobank_Cai2020	GRCh37	NA	NA	per_variant	phenotype_sensitivity	downloadable	Figshare_11733753_file_21356598
+UKB_GPpsy	depression	consulted GP for nerves anxiety tension or depression	UK_Biobank_Cai2020	GRCh37	NA	NA	per_variant	minimal_phenotype_sensitivity	downloadable	Figshare_11733753_file_21356688
+UKB_ICD10Dep	depression	linked-record ICD-10 depression	UK_Biobank_Cai2020	GRCh37	NA	NA	per_variant	EHR_phenotype_sensitivity	downloadable	Figshare_11733753_file_21356586
+BIONIC_DSM5_MDD	depression	DSM-5 lifetime MDD	BIONIC_2026	GRCh37	16655	48286	64941	future_clinical_anchor	pending_GCST	GCP001649
+IBD_deLange2017	IBD	IBD European meta-analysis	IIBDGC_deLange2017	GRCh37	25042	34915	59957	reciprocal_replication	available	GCST004131
+CD_deLange2017	IBD	Crohn disease European meta-analysis	IIBDGC_deLange2017	GRCh37	12194	28072	40266	subtype_replication	downloadable	GCST004132
+UC_deLange2017	IBD	ulcerative colitis European meta-analysis	IIBDGC_deLange2017	GRCh37	12366	33609	45975	subtype_replication	downloadable	GCST004133
+IBD_FinnGen_R12	IBD	IBD strict	FinnGen_R12	GRCh38	10960	489388	500348	reciprocal_replication	available	FinnGen_R12
+CD_FinnGen_R12	IBD	Crohn disease strict 2	FinnGen_R12	GRCh38	2489	497622	500111	subtype_replication	available	FinnGen_R12
+UC_FinnGen_R12	IBD	ulcerative colitis strict 2	FinnGen_R12	GRCh38	7220	492160	499380	subtype_replication	available	FinnGen_R12

@@ -1,0 +1,4 @@
+locus	n_snps	n_reference	max_asymmetry	min_diagonal	max_diagonal	min_eigenvalue
+block154	2090	489	0	1	1	-3.21217403656791e-13
+block464	2608	489	0	1	1	-1.26869214410868e-12
+block1671	1928	489	0	1	1	-2.25536235884681e-13

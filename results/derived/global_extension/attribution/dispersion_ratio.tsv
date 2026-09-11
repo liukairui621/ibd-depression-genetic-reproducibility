@@ -1,0 +1,2 @@
+depression_definition_sd	ibd_subtype_sd	ratio	ratio_ci_low	ratio_ci_high	probability_ratio_gt_1	simulation_draws	seed
+0.0250169839454254	0.0198834658185886	1.25818024753198	0.378705853077891	6.21374761036163	0.75252	50000	42

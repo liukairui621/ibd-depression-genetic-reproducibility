@@ -1,0 +1,85 @@
+locus	pair_type	trait1	trait2	ridge	p12	nsnps	PP.H0	PP.H1	PP.H2	PP.H3	PP.H4	idx1	idx2	trait1_top_snp	trait2_top_snp	status	message
+block154	external_disease_pair	Howard_DEP	deLange_IBD	0	1e-05											not_estimable	no_signal_pair
+block154	external_disease_pair	Howard_DEP	deLange_IBD	0	1e-06											not_estimable	no_signal_pair
+block154	finngen_disease_pair	FinnGen_DEP	FinnGen_IBD	0	1e-05											not_estimable	no_signal_pair
+block154	finngen_disease_pair	FinnGen_DEP	FinnGen_IBD	0	1e-06											not_estimable	no_signal_pair
+block154	cross_howard_finngen_ibd	Howard_DEP	FinnGen_IBD	0	1e-05											not_estimable	no_signal_pair
+block154	cross_howard_finngen_ibd	Howard_DEP	FinnGen_IBD	0	1e-06											not_estimable	no_signal_pair
+block154	cross_finngen_dep_delange	FinnGen_DEP	deLange_IBD	0	1e-05											not_estimable	no_signal_pair
+block154	cross_finngen_dep_delange	FinnGen_DEP	deLange_IBD	0	1e-06											not_estimable	no_signal_pair
+block154	depression_cross_cohort	Howard_DEP	FinnGen_DEP	0	1e-05											not_estimable	no_signal_pair
+block154	depression_cross_cohort	Howard_DEP	FinnGen_DEP	0	1e-06											not_estimable	no_signal_pair
+block154	ibd_cross_cohort	deLange_IBD	FinnGen_IBD	0	1e-05	2090	5.40944720594613e-26	2.05948121109227e-11	3.37315863061585e-17	0.0118541216534672	0.988145878325935	1	1	rs7554511	rs11579874	ok	
+block154	ibd_cross_cohort	deLange_IBD	FinnGen_IBD	0	1e-05	2090	5.97077780495469e-17	0.0227319063053138	2.56407016093776e-15	0.976190040804701	0.00107805288998302	1	2	rs7554511	rs7533782	ok	
+block154	ibd_cross_cohort	deLange_IBD	FinnGen_IBD	0	1e-06	2090	4.88796447528902e-25	1.86094264609493e-10	3.04797864333368e-16	0.107113579857496	0.89288641995641	1	1	rs7554511	rs11579874	ok	
+block154	ibd_cross_cohort	deLange_IBD	FinnGen_IBD	0	1e-06	2090	5.97657656402803e-17	0.0227539833030264	2.5665603599698e-15	0.977138106708565	0.000107909988405675	1	2	rs7554511	rs7533782	ok	
+block154	external_disease_pair	Howard_DEP	deLange_IBD	1e-04	1e-05											not_estimable	no_signal_pair
+block154	external_disease_pair	Howard_DEP	deLange_IBD	1e-04	1e-06											not_estimable	no_signal_pair
+block154	finngen_disease_pair	FinnGen_DEP	FinnGen_IBD	1e-04	1e-05											not_estimable	no_signal_pair
+block154	finngen_disease_pair	FinnGen_DEP	FinnGen_IBD	1e-04	1e-06											not_estimable	no_signal_pair
+block154	cross_howard_finngen_ibd	Howard_DEP	FinnGen_IBD	1e-04	1e-05											not_estimable	no_signal_pair
+block154	cross_howard_finngen_ibd	Howard_DEP	FinnGen_IBD	1e-04	1e-06											not_estimable	no_signal_pair
+block154	cross_finngen_dep_delange	FinnGen_DEP	deLange_IBD	1e-04	1e-05											not_estimable	no_signal_pair
+block154	cross_finngen_dep_delange	FinnGen_DEP	deLange_IBD	1e-04	1e-06											not_estimable	no_signal_pair
+block154	depression_cross_cohort	Howard_DEP	FinnGen_DEP	1e-04	1e-05											not_estimable	no_signal_pair
+block154	depression_cross_cohort	Howard_DEP	FinnGen_DEP	1e-04	1e-06											not_estimable	no_signal_pair
+block154	ibd_cross_cohort	deLange_IBD	FinnGen_IBD	1e-04	1e-05	2090	5.42540578646582e-26	2.05953370291695e-11	3.38319048623116e-17	0.0118547555523443	0.98814524442706	1	1	rs7554511	rs11579874	ok	
+block154	ibd_cross_cohort	deLange_IBD	FinnGen_IBD	1e-04	1e-05	2090	5.98621853348907e-17	0.022724233555953	2.57158795731312e-15	0.976197251444719	0.0010785149993262	1	2	rs7554511	rs7533782	ok	
+block154	ibd_cross_cohort	deLange_IBD	FinnGen_IBD	1e-04	1e-06	2090	4.90235934100123e-25	1.86098048403837e-10	3.05702764647322e-16	0.107118755545065	0.892881244268838	1	1	rs7554511	rs11579874	ok	
+block154	ibd_cross_cohort	deLange_IBD	FinnGen_IBD	1e-04	1e-06	2090	5.99203478293996e-17	0.0227463125713117	2.57408652915125e-15	0.977145731139524	0.00010795628916204	1	2	rs7554511	rs7533782	ok	
+block464	external_disease_pair	Howard_DEP	deLange_IBD	0	1e-05											not_estimable	no_signal_pair
+block464	external_disease_pair	Howard_DEP	deLange_IBD	0	1e-06											not_estimable	no_signal_pair
+block464	finngen_disease_pair	FinnGen_DEP	FinnGen_IBD	0	1e-05	2608	1.03175691002454e-32	5.44663025094765e-30	0.000164648588976824	0.0860039276708609	0.913831423740165	1	1	rs9862080	rs34762726	ok	
+block464	finngen_disease_pair	FinnGen_DEP	FinnGen_IBD	0	1e-05	2608	6.32564053640524e-05	0.0333929676336128	0.00182613072637461	0.964011141618683	0.00070650361596641	1	2	rs9862080	rs142495009	ok	
+block464	finngen_disease_pair	FinnGen_DEP	FinnGen_IBD	0	1e-06	2608	5.81102181360587e-32	3.06763026168148e-29	0.000927327486569486	0.48438803258344	0.514684639929991	1	1	rs9862080	rs34762726	ok	
+block464	finngen_disease_pair	FinnGen_DEP	FinnGen_IBD	0	1e-06	2608	6.3296652746692e-05	0.0334142141704352	0.00182729261633139	0.964624501247045	7.06953134417616e-05	1	2	rs9862080	rs142495009	ok	
+block464	cross_howard_finngen_ibd	Howard_DEP	FinnGen_IBD	0	1e-05											not_estimable	no_signal_pair
+block464	cross_howard_finngen_ibd	Howard_DEP	FinnGen_IBD	0	1e-06											not_estimable	no_signal_pair
+block464	cross_finngen_dep_delange	FinnGen_DEP	deLange_IBD	0	1e-05	2608	3.12285147835537e-33	1.64854891360238e-30	0.000165762880693314	0.0865927506417429	0.91324148647757	1	1	rs9862080	rs1131095	ok	
+block464	cross_finngen_dep_delange	FinnGen_DEP	deLange_IBD	0	1e-06	2608	1.75359658278856e-32	9.25721175499317e-30	0.000930819871363422	0.486250315367518	0.512818864761125	1	1	rs9862080	rs1131095	ok	
+block464	depression_cross_cohort	Howard_DEP	FinnGen_DEP	0	1e-05											not_estimable	no_signal_pair
+block464	depression_cross_cohort	Howard_DEP	FinnGen_DEP	0	1e-06											not_estimable	no_signal_pair
+block464	ibd_cross_cohort	deLange_IBD	FinnGen_IBD	0	1e-05	2608	1.88232378335665e-59	9.99149062609468e-31	3.00382727671599e-31	0.0149594597327917	0.985040540267197	1	1	rs1131095	rs34762726	ok	
+block464	ibd_cross_cohort	deLange_IBD	FinnGen_IBD	0	1e-05	2608	6.30295281766824e-31	0.033456461928217	1.81958107499014e-29	0.965844147012737	0.000699391059041242	1	2	rs1131095	rs142495009	ok	
+block464	ibd_cross_cohort	deLange_IBD	FinnGen_IBD	0	1e-06	2608	1.65896835113558e-58	8.8059062292676e-30	2.6473949000757e-30	0.131843790458479	0.868156209541533	1	1	rs1131095	rs34762726	ok	
+block464	ibd_cross_cohort	deLange_IBD	FinnGen_IBD	0	1e-06	2608	6.30692272249423e-31	0.0334775344276488	1.82072713524156e-29	0.966452482415411	6.99831569389466e-05	1	2	rs1131095	rs142495009	ok	
+block464	external_disease_pair	Howard_DEP	deLange_IBD	1e-04	1e-05											not_estimable	no_signal_pair
+block464	external_disease_pair	Howard_DEP	deLange_IBD	1e-04	1e-06											not_estimable	no_signal_pair
+block464	finngen_disease_pair	FinnGen_DEP	FinnGen_IBD	1e-04	1e-05	2608	1.03319150707466e-32	5.45228792902046e-30	0.000164709079759645	0.0860053250237015	0.913829965896533	1	1	rs9862080	rs34762726	ok	
+block464	finngen_disease_pair	FinnGen_DEP	FinnGen_IBD	1e-04	1e-05	2608	6.32519303539366e-05	0.0333788783584233	0.00182679786467617	0.964024634279299	0.00070643756724696	1	2	rs9862080	rs142495009	ok	
+block464	finngen_disease_pair	FinnGen_DEP	FinnGen_IBD	1e-04	1e-06	2608	5.81905869497915e-32	3.07079406515133e-29	0.000927661325276565	0.484392323172195	0.514680015502529	1	1	rs9862080	rs34762726	ok	
+block464	finngen_disease_pair	FinnGen_DEP	FinnGen_IBD	1e-04	1e-06	2608	6.32921711245921e-05	0.0334001139441397	0.00182796007037479	0.964637945114198	7.06887001627334e-05	1	2	rs9862080	rs142495009	ok	
+block464	cross_howard_finngen_ibd	Howard_DEP	FinnGen_IBD	1e-04	1e-05											not_estimable	no_signal_pair
+block464	cross_howard_finngen_ibd	Howard_DEP	FinnGen_IBD	1e-04	1e-06											not_estimable	no_signal_pair
+block464	cross_finngen_dep_delange	FinnGen_DEP	deLange_IBD	1e-04	1e-05	2608	3.15318628925641e-33	1.6639780161901e-30	0.00016582346661331	0.0865939914533181	0.913240185080068	1	1	rs9862080	rs1131095	ok	
+block464	cross_finngen_dep_delange	FinnGen_DEP	deLange_IBD	1e-04	1e-06	2608	1.77061905539694e-32	9.3437904169074e-30	0.000931153959466011	0.486254084868174	0.512814761172361	1	1	rs9862080	rs1131095	ok	
+block464	depression_cross_cohort	Howard_DEP	FinnGen_DEP	1e-04	1e-05											not_estimable	no_signal_pair
+block464	depression_cross_cohort	Howard_DEP	FinnGen_DEP	1e-04	1e-06											not_estimable	no_signal_pair
+block464	ibd_cross_cohort	deLange_IBD	FinnGen_IBD	1e-04	1e-05	2608	1.9018652690585e-59	1.00017526088225e-30	3.03191108471644e-31	0.0149595298917513	0.985040470108244	1	1	rs1131095	rs34762726	ok	
+block464	ibd_cross_cohort	deLange_IBD	FinnGen_IBD	1e-04	1e-05	2608	6.3591726187497e-31	0.0334423643800058	1.83661160948524e-29	0.965858200004527	0.000699435615465202	1	2	rs1131095	rs142495009	ok	
+block464	ibd_cross_cohort	deLange_IBD	FinnGen_IBD	1e-04	1e-06	2608	1.67619012283695e-58	8.81494562559957e-30	2.67214481288539e-30	0.131844335425773	0.868155664574226	1	1	rs1131095	rs34762726	ok	
+block464	ibd_cross_cohort	deLange_IBD	FinnGen_IBD	1e-04	1e-06	2608	6.36317818885727e-31	0.0334634293428742	1.83776847013414e-29	0.966466583038931	6.99876181960477e-05	1	2	rs1131095	rs142495009	ok	
+block1671	external_disease_pair	Howard_DEP	deLange_IBD	0	1e-05											not_estimable	no_signal_pair
+block1671	external_disease_pair	Howard_DEP	deLange_IBD	0	1e-06											not_estimable	no_signal_pair
+block1671	finngen_disease_pair	FinnGen_DEP	FinnGen_IBD	0	1e-05											not_estimable	no_signal_pair
+block1671	finngen_disease_pair	FinnGen_DEP	FinnGen_IBD	0	1e-06											not_estimable	no_signal_pair
+block1671	cross_howard_finngen_ibd	Howard_DEP	FinnGen_IBD	0	1e-05											not_estimable	no_signal_pair
+block1671	cross_howard_finngen_ibd	Howard_DEP	FinnGen_IBD	0	1e-06											not_estimable	no_signal_pair
+block1671	cross_finngen_dep_delange	FinnGen_DEP	deLange_IBD	0	1e-05											not_estimable	no_signal_pair
+block1671	cross_finngen_dep_delange	FinnGen_DEP	deLange_IBD	0	1e-06											not_estimable	no_signal_pair
+block1671	depression_cross_cohort	Howard_DEP	FinnGen_DEP	0	1e-05	1928	0.000430778949229585	0.0325456903393187	0.0120148948851513	0.907687490620621	0.0473211452056796	1	1	rs198457	rs4246215	ok	
+block1671	depression_cross_cohort	Howard_DEP	FinnGen_DEP	0	1e-06	1928	0.000449941522539526	0.0339934379095406	0.0125493599616359	0.948064644872568	0.00494261573371591	1	1	rs198457	rs4246215	ok	
+block1671	ibd_cross_cohort	deLange_IBD	FinnGen_IBD	0	1e-05											not_estimable	no_signal_pair
+block1671	ibd_cross_cohort	deLange_IBD	FinnGen_IBD	0	1e-06											not_estimable	no_signal_pair
+block1671	external_disease_pair	Howard_DEP	deLange_IBD	1e-04	1e-05											not_estimable	no_signal_pair
+block1671	external_disease_pair	Howard_DEP	deLange_IBD	1e-04	1e-06											not_estimable	no_signal_pair
+block1671	finngen_disease_pair	FinnGen_DEP	FinnGen_IBD	1e-04	1e-05											not_estimable	no_signal_pair
+block1671	finngen_disease_pair	FinnGen_DEP	FinnGen_IBD	1e-04	1e-06											not_estimable	no_signal_pair
+block1671	cross_howard_finngen_ibd	Howard_DEP	FinnGen_IBD	1e-04	1e-05											not_estimable	no_signal_pair
+block1671	cross_howard_finngen_ibd	Howard_DEP	FinnGen_IBD	1e-04	1e-06											not_estimable	no_signal_pair
+block1671	cross_finngen_dep_delange	FinnGen_DEP	deLange_IBD	1e-04	1e-05											not_estimable	no_signal_pair
+block1671	cross_finngen_dep_delange	FinnGen_DEP	deLange_IBD	1e-04	1e-06											not_estimable	no_signal_pair
+block1671	depression_cross_cohort	Howard_DEP	FinnGen_DEP	1e-04	1e-05	1928	0.000431031681374777	0.0325607736851055	0.012016062342462	0.90766387587392	0.0473282564171378	1	1	rs198457	rs4246215	ok	
+block1671	depression_cross_cohort	Howard_DEP	FinnGen_DEP	1e-04	1e-06	1928	0.000450208506654485	0.0340094195617608	0.012550663250118	0.948046317147888	0.00494339153357813	1	1	rs198457	rs4246215	ok	
+block1671	ibd_cross_cohort	deLange_IBD	FinnGen_IBD	1e-04	1e-05											not_estimable	no_signal_pair
+block1671	ibd_cross_cohort	deLange_IBD	FinnGen_IBD	1e-04	1e-06											not_estimable	no_signal_pair

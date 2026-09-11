@@ -1,0 +1,2 @@
+classification	reason	near_pd_used	min_original_v_eigenvalue	depression_x_subtype_p	subtype_x_cohort_p	leave_gp_ratio	leave_ibd_ratio	cd_uc_direction_consistent	cd_uc_deLange_direction	cd_uc_FinnGen_direction
+mixed_or_indeterminate	The 95% interval for the adjusted dispersion ratio includes 1, or interaction/leave-one-out sensitivity prevents a stable attribution.	FALSE	1.08175743917285e-05	0.415515131316451	0.422946776864858	0.985081935789215	0.977873483768671	FALSE	CD_gt_UC	CD_lt_UC

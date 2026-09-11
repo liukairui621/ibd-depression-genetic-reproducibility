@@ -1,0 +1,18 @@
+2026-07-28T09:17:53+08:00
+Linux iZ7xv8v8u3z7yg393huo0hZ 6.8.0-100-generic #100-Ubuntu SMP PREEMPT_DYNAMIC Tue Jan 13 16:40:06 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
+R version 4.3.3 (2024-02-29) -- "Angel Food Cake"
+Copyright (C) 2024 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under the terms of the
+GNU General Public License versions 2 or 3.
+For more information about these matters see
+https://www.gnu.org/licenses/.
+Python 2.7.18 :: Anaconda, Inc.
+LDSC_script_md5=e6446d21310a491b06b8fe25c5b69ba1
+munge_sumstats_script_md5=844dcc49bccaa1659a48204e6d1f611a
+GenomicSEM_version=0.0.5
+GenomicSEM_RemoteSha=0a63ac0ea01b61d28bd17e4a204e0fa561ce5040
+random_seed=42
+GenomicSEM_n_blocks=200

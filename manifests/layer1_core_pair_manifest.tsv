@@ -1,0 +1,16 @@
+pair_class	trait1	trait2
+cross_disease	MDD_Howard2019	IBD_deLange2017
+cross_disease	MDD_Howard2019	IBD_FinnGen_R12
+cross_disease	MDD_Howard2019	CD_FinnGen_R12
+cross_disease	MDD_Howard2019	UC_FinnGen_R12
+cross_disease	DEP_FinnGen_R12	IBD_deLange2017
+cross_disease	DEP_FinnGen_R12	IBD_FinnGen_R12
+cross_disease	DEP_FinnGen_R12	CD_FinnGen_R12
+cross_disease	DEP_FinnGen_R12	UC_FinnGen_R12
+within_depression	MDD_Howard2019	DEP_FinnGen_R12
+within_IBD	IBD_deLange2017	IBD_FinnGen_R12
+within_IBD	IBD_deLange2017	CD_FinnGen_R12
+within_IBD	IBD_deLange2017	UC_FinnGen_R12
+within_IBD	IBD_FinnGen_R12	CD_FinnGen_R12
+within_IBD	IBD_FinnGen_R12	UC_FinnGen_R12
+within_IBD	CD_FinnGen_R12	UC_FinnGen_R12

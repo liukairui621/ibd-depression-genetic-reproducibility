@@ -1,0 +1,22 @@
+{
+  "python2": "/opt/conda/envs/ldsc/bin/python",
+  "python3": "/opt/conda/envs/ibd/bin/python",
+  "qtl_python": "/opt/conda/envs/ibd/bin/python",
+  "ldsc_dir": "/opt/software/ldsc",
+  "plink": "/opt/software/plink",
+  "placo_dir": "/opt/software/PLACO",
+  "r_library": "/opt/software/R_library",
+  "assets": {
+    "00_RawData/GWAS/Psychiatric/MDD_Howard2019_new.txt.gz": "/data/howard_public_no23andme.txt.gz",
+    "00_RawData/GWAS/IBD/deLange2017/deLange2017_harmonised.tsv.gz": "/data/delange_ibd_harmonised.tsv.gz",
+    "19_DENND1B_IndependentValidation/data/raw/finngen_R12_F5_DEPRESSIO.gz": "/data/finngen_R12_F5_DEPRESSIO.gz",
+    "00_RawData/GWAS/IBD/IBD_STRICT_FinnGen_R12.gz": "/data/finngen_R12_IBD_STRICT.gz",
+    "00_RawData/GWAS/IBD/CD_STRICT2_FinnGen_R12.gz": "/data/finngen_R12_CD_STRICT2.gz",
+    "00_RawData/GWAS/IBD/UC_STRICT2_FinnGen_R12.gz": "/data/finngen_R12_UC_STRICT2.gz",
+    "00_RawData/Reference/LD_EUR/1000G_EUR_Phase3_plink": "/data/reference/1000G_EUR_Phase3_plink",
+    "00_RawData/Reference/LD_EUR/LDscore": "/data/reference/LDscore",
+    "00_RawData/Reference/LD_EUR/1000G_Phase3_weights_hm3_no_MHC": "/data/reference/1000G_Phase3_weights_hm3_no_MHC",
+    "00_RawData/Reference/LD_EUR/1000G_Phase3_frq": "/data/reference/1000G_Phase3_frq",
+    "00_RawData/Reference/SLDSC": "/data/reference/baselineLD_v2.2"
+  }
+}

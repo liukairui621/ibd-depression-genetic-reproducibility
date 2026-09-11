@@ -1,0 +1,3 @@
+ibd_cohort	n_definitions	n_cd_gt_uc	n_cd_lt_uc	modal_direction	passes_three_of_four
+deLange2017	4	4	0	CD_gt_UC	TRUE
+FinnGen_R12	4	1	3	CD_lt_UC	TRUE

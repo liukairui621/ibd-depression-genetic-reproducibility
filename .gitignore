@@ -1,0 +1,18 @@
+# Source and intermediate genetic data are intentionally excluded.
+data/raw/
+data/munged/
+reference/
+*.sumstats.gz
+*.txt.gz
+*.vcf.gz
+*.bgen
+*.bed
+*.bim
+*.fam
+*.rds
+*.RData
+*.log
+__pycache__/
+*.pyc
+.Rhistory
+.Rproj.user/

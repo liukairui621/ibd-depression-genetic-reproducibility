@@ -1,0 +1,7 @@
+INDEPENDENT NUMERIC AUDIT: PASS
+n_frozen_annotations=10
+n_discovery_fdr_lt_0.05=2
+n_replicated_annotation_covariance=2
+replicated_annotations=SuperEnhancer_Hnisz,Repressed_Hoffman
+tolerance=1e-12
+checks=p_values,BH_FDR,direction,directional_replication_p,decision_boolean

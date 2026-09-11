@@ -1,0 +1,5 @@
+pair_id	method	workers	exact_p_le_1e4	integration_errors	p_lt_1e6	p_lt_5e8	minimum_p	loci_p_lt_1e6	gws_loci	gws_nonmhc_loci	gws_mhc_loci
+External_Howard_deLange	placo	8	8657	0	1783	852	2.08632556697911e-17	55	28	19	9
+FinnGen_DEP_IBD	placo_plus	8	8095	0	1964	1115	1.08712554980041e-24	42	23	11	12
+Diagonal_Howard_FinnGenIBD	placo	8	5234	0	1162	709	3.49656572839927e-13	45	21	10	11
+Diagonal_FinnGenDEP_deLange	placo	8	8112	0	2227	1282	2.09729847739496e-24	60	38	28	10

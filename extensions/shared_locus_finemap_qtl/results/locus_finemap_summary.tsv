@@ -1,0 +1,4 @@
+locus	region	Howard_DEP_n_cs	Howard_DEP_max_pip	FinnGen_DEP_n_cs	FinnGen_DEP_max_pip	deLange_IBD_n_cs	deLange_IBD_max_pip	FinnGen_IBD_n_cs	FinnGen_IBD_max_pip	depression_cs_replicated	ibd_cs_replicated	n_positional_genes	n_qtl_h4_ge_0.8_gene_trait_pairs
+block154	chr1:200.13-201.07 Mb	0	0.0035240795300043	0	0.0233228231764017	1	0.224125776827552	2	0.212951874984362	False	True	14	2
+block464	chr3:47.59-50.39 Mb	0	0.151054653477437	1	0.0441267334787995	1	0.140059939406787	2	0.897232803856209	False	True	48	2
+block1671	chr11:60.52-61.72 Mb	1	0.966326264320946	1	0.0451290210389717	0	0.0797747418758386	0	0.0595246123457616	False	False	16	2

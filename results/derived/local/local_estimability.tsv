@@ -1,0 +1,5 @@
+pair_id	trait	n_lava_blocks_total	n_local_h2_estimable	estimable_fraction
+HowardMDD__FinnGenIBD	IBD_FinnGen_R12	2495	1922	0.770341
+HowardMDD__FinnGenIBD	MDD_Howard2019	2495	2250	0.901804
+FinnGenDEP__deLangeIBD	DEP_FinnGen_R12	2495	2102	0.842485
+FinnGenDEP__deLangeIBD	IBD_deLange2017	2495	2386	0.956313

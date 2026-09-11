@@ -1,0 +1,12 @@
+order	annotation	role
+1	Coding_UCSC	primary
+2	Conserved_LindbladToh	primary
+3	DHS_Trynka	primary
+4	Enhancer_Andersson	primary
+5	H3K27ac_Hnisz	primary
+6	H3K4me1_Trynka	primary
+7	Promoter_UCSC	primary
+8	SuperEnhancer_Hnisz	primary
+9	TFBS_ENCODE	primary
+10	Repressed_Hoffman	negative_comparator
+

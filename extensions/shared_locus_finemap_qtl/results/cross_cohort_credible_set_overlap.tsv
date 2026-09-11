@@ -1,0 +1,9 @@
+locus	pair_type	trait1	trait2	cs1	cs2	top1	top2	top_variant_r2	n_exact_overlap	exact_overlap	replicated
+block154	depression_cross_cohort	Howard_DEP	FinnGen_DEP						0	""	FALSE
+block154	ibd_cross_cohort	deLange_IBD	FinnGen_IBD	1	1	rs7554511	rs11579874	0.858026158497086	6	rs12132298;rs59655222;rs7554511;rs41299637;rs12131796;rs296520	TRUE
+block154	ibd_cross_cohort	deLange_IBD	FinnGen_IBD	1	2	rs7554511	rs7533782	0.0331064049209095	0	""	FALSE
+block464	depression_cross_cohort	Howard_DEP	FinnGen_DEP						0	""	FALSE
+block464	ibd_cross_cohort	deLange_IBD	FinnGen_IBD	1	1	rs1131095	rs34762726	1	12	rs4283605;rs9812791;rs6770670;rs34762726;rs11709525;rs9836291;rs9858542;rs9882740;rs11130213;rs1131095;rs9822268;rs13085791	TRUE
+block464	ibd_cross_cohort	deLange_IBD	FinnGen_IBD	1	2	rs1131095	rs142495009	0.00493994283675455	0	""	FALSE
+block1671	depression_cross_cohort	Howard_DEP	FinnGen_DEP	1	1	rs198457	rs4246215	0.108243840132378	0	""	FALSE
+block1671	ibd_cross_cohort	deLange_IBD	FinnGen_IBD						0	""	FALSE

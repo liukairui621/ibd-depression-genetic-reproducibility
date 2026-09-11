@@ -1,0 +1,8 @@
+R=4.3.3
+GenomicSEM=0.0.5
+GenomicSEM_RemoteSha=0a63ac0ea01b61d28bd17e4a204e0fa561ce5040
+n_blocks=200
+exclude_cont=TRUE
+scale=observed
+random_seed=not_applicable_deterministic_jackknife
+weights=HapMap3_noMHC

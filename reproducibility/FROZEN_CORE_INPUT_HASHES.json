@@ -1,0 +1,26 @@
+[
+  {
+    "trait": "MDD_Howard2019",
+    "uncompressed_sha256": "bc7c322d4a330989b483939aec9f2896d9e5136f01ac7d85347c79ee12ac54e1"
+  },
+  {
+    "trait": "DEP_FinnGen_R12",
+    "uncompressed_sha256": "3b7c9b12f7aba67729de3b406fcf6985cc6ee4eac9f1503f667bcaa8b13f32db"
+  },
+  {
+    "trait": "IBD_FinnGen_R12",
+    "uncompressed_sha256": "c490d81f164884555c13792fb671eb2d67df646ebe31160554bcdf249258a064"
+  },
+  {
+    "trait": "CD_FinnGen_R12",
+    "uncompressed_sha256": "a3b5aafaecb3e8d04282ab1077b7f8cfd2d747c29c61c6de6d2d6edf54f59292"
+  },
+  {
+    "trait": "UC_FinnGen_R12",
+    "uncompressed_sha256": "fa4393ae140c5efd8236897f26d8037838305c8571678733e59b95179c6ab818"
+  },
+  {
+    "trait": "IBD_deLange2017",
+    "uncompressed_sha256": "92859b8ec0cf0df0ccadf089e692d8d66d12a58f3b9f67429dd71ce512130440"
+  }
+]
