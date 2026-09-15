@@ -2,22 +2,24 @@ cff-version: 1.2.0
 message: "If you use this code or its derived results, please cite the associated article."
 title: "IBD-depression genetic reproducibility"
 type: software
-version: 2.2.1
-date-released: 2026-09-14
+version: 2.2.2
+date-released: 2026-09-15
 authors:
   - family-names: Chen
     given-names: Weirun
   - family-names: Chen
     given-names: Rong
+  - family-names: Liu
+    given-names: Kairui
   - family-names: Huang
-    given-names: Youxing
+    given-names: Yipei
   - family-names: He
     given-names: Wei
   - family-names: Qian
     given-names: Yan
   - family-names: Huang
-    given-names: Yipei
-    email: huangyp2025@163.com
+    given-names: Youxing
+    email: waiqike7@163.com
 repository-code: "https://github.com/liukairui621/ibd-depression-genetic-reproducibility"
 license: MIT
 keywords:

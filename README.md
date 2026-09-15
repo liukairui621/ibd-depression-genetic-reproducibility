@@ -2,7 +2,7 @@
 
 Code, protocols, results and provenance for **Cross-cohort reproducibility and
 molecular resolution of genetic overlap between inflammatory bowel disease and
-depression**. Submission revision: 14 September 2026.
+depression**. Submission revision: 15 September 2026.
 
 The reciprocal LDSC estimates were small and positive. No LAVA component met the
 same-block, same-direction, dual-significance rule. Three non-MHC PLACO blocks
@@ -95,4 +95,4 @@ dataset identifiers and query records identify the analyzed resources.
 Target URL: https://github.com/liukairui621/ibd-depression-genetic-reproducibility
 
 Code: MIT license. Original data retain their providers' terms.
-Corresponding author: Yipei Huang (huangyp2025@163.com).
+Corresponding author: Youxing Huang (waiqike7@163.com).
