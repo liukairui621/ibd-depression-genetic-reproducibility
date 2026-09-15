@@ -1,6 +1,6 @@
 # Verification status
 
-Revision date: 11 September 2026.
+Revision date: 14 September 2026.
 
 | Check | Result | Scope |
 |---|---|---|
@@ -13,7 +13,7 @@ Revision date: 11 September 2026.
 | Annotation covariance BH correction | Passed | Ten frozen tests, two discovery q<0.05; model outputs contain 84 annotations |
 | Full downstream end-to-end rerun | Not performed in this revision | LAVA, PLACO, molecular-QTL retrieval, multivariable extension, and S-LDSC retain archived execution results |
 | Fresh software installation on an independent machine | Not performed | Environment versions and setup inputs are documented; no clean-room reproduction claim |
-| GitHub publication | Public release `v2.2.0-plos-one` | Submission-matched code and derived outputs |
+| GitHub publication | Public tag `v2.2.1-plos-one` | Submission-matched code and derived outputs |
 
 The raw reconstruction and LDSC rerun were executed in a newly staged directory
 on the original Linux server. The reference files and installed tools were

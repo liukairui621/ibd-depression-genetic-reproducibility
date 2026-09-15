@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "If you use this code or its derived results, please cite the associated article."
 title: "IBD-depression genetic reproducibility"
 type: software
-version: 2.2.0
-date-released: 2026-09-11
+version: 2.2.1
+date-released: 2026-09-14
 authors:
   - family-names: Chen
     given-names: Weirun
