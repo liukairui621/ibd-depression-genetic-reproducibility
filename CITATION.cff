@@ -5,16 +5,19 @@ type: software
 version: 2.2.0
 date-released: 2026-09-11
 authors:
-  - family-names: He
-    given-names: Yaobin
+  - family-names: Chen
+    given-names: Weirun
   - family-names: Chen
     given-names: Rong
   - family-names: Huang
     given-names: Youxing
-    email: waiqike7@163.com
-  - family-names: Liu
-    given-names: Kairui
-    email: liukairui621@126.com
+  - family-names: He
+    given-names: Wei
+  - family-names: Qian
+    given-names: Yan
+  - family-names: Huang
+    given-names: Yipei
+    email: huangyp2025@163.com
 repository-code: "https://github.com/liukairui621/ibd-depression-genetic-reproducibility"
 license: MIT
 keywords:

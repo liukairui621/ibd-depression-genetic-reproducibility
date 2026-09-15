@@ -12,8 +12,6 @@ ROOT = Path("/root/IBD/20_Reproducibility_Ladder")
 OUTPUT = ROOT / "provenance" / "MANUSCRIPT_AUDIT_PACKAGE_SHA256_20260728.tsv"
 TOP_LEVEL_FILES = [
     ROOT / "README.md",
-    ROOT / "CLAUDE_CODE_REVIEW_HANDOFF.md",
-    ROOT / "CLAUDE_CODE_MANUSCRIPT_REVIEW_HANDOFF.md",
 ]
 DIRECTORIES = [
     ROOT / "manuscript",

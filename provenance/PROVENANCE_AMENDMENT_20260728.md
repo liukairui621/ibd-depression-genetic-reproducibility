@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This amendment resolves the record-hygiene issues identified during the read-only Claude Code audit. It does not alter GWAS inputs, analysis scripts, statistical outputs, figures, or scientific conclusions.
+This amendment resolves record-hygiene issues identified during a read-only audit. It does not alter GWAS inputs, analysis scripts, statistical outputs, figures, or scientific conclusions.
 
 ## Frozen core manifest
 
@@ -42,4 +42,3 @@ These are complementary outputs and are not interchangeable.
 - The UK Biobank ICD-10 depression definition remains in the phenotype-sensitivity panel because it passed the prespecified heritability gate, but its lower mean chi-square and wider uncertainty are acknowledged.
 - Existing CRLF checksum files are retained byte-for-byte. New audit-package manifests are written with LF line endings.
 - Source-data symlinks are retained for computational continuity. The manuscript audit relies on source manifests, checksums, and retrieval records rather than assuming that symlinks are portable.
-

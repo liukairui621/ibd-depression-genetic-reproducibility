@@ -58,11 +58,15 @@ imposed by the LDSC regression LD-score and weight files.
 ```bash
 python3 reproducibility/verify_published_results.py
 PLOS_FIGURE_OUT=/work/figure_check Rscript scripts/27_prepare_plos_figures.R
+python scripts/28_refine_submission_figures.py
 ```
 
-This checks exported statistics and redraws figures. It differs from a complete
-source-data rerun. See `reproducibility/VERIFICATION_STATUS.md` for the checks
-actually executed for this revision and the remaining scope.
+The R script redraws the two main statistical figures. The Python refinement
+script then applies the submission layout for Fig 1, S1 Fig, and S2 Fig using
+dedicated exterior legend regions and fixed panel-label anchors. It changes
+layout only and does not recompute statistics. See
+`reproducibility/VERIFICATION_STATUS.md` for the checks actually executed for
+this revision and the remaining scope.
 
 ## Contents
 
@@ -91,4 +95,4 @@ dataset identifiers and query records identify the analyzed resources.
 Target URL: https://github.com/liukairui621/ibd-depression-genetic-reproducibility
 
 Code: MIT license. Original data retain their providers' terms.
-Contacts: Youxing Huang (waiqike7@163.com), Kairui Liu (liukairui621@126.com).
+Corresponding author: Yipei Huang (huangyp2025@163.com).
